@@ -1,4 +1,2 @@
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <title>JavaScript Temperature Converter</title>
-    <link href="../static/global.css" rel="stylesheet" type="text/css">
-    <script type="text/javascript" src="../temperature.js"></script>
+<link rel="stylesheet" type="text/css" href="../static/global.css"/>
+<title> Conversor de Temperatura </title>

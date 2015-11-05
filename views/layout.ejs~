@@ -1,8 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="../static/global.css"/>
-<title> Conversor de Temperatura </title>
+ 	<%- include head.ejs %>
 <meta charset="utf-8"/>
 </head>
 <body>
@@ -15,7 +14,7 @@
 		<p>Los formatos aceptados son los siguientes: 32F, 45K, -2.4f, -55k, 3.5C, 87e3c, 33.4E4C ...</p></strong>
 	</div>
 	<div id="respuesta">
-	<%- body %> <!-- Aqui se carga el formulario -->
+	<%- body %> 
 	<div>
 </body>
 </html>
