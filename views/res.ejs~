@@ -1,0 +1,6 @@
+<div>
+	<center>
+		<%= respuesta %><br>
+		<a href="/">Nueva conversión</a>
+	</center>
+</div>
